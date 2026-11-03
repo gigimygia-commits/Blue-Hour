@@ -2,13 +2,23 @@
 
 ## About My Project
 
-Blue Hour is an original R&B instrumental music project that I created using TunePad and Python.
+Blue Hour is an R&B instrumental music project that I created using TunePad and Python.
 
 Blue hour is the short period between daylight and darkness when the sky turns deep blue. I chose this name because I wanted my music to capture that calm, dreamy and slightly sad feeling.
 
 My main idea was to explore how something logical, like coding, could be used to create something emotional, like music.
 
 I used different sounds, including keys, bass and drums, to create a relaxing R&B composition.
+
+## Music Inspiration
+
+One of my inspirations for Blue Hour was Fortnight by Taylor Swift.
+
+I liked its emotional and slightly melancholic atmosphere, which gave me inspiration for the mood I wanted to create.
+
+However, Blue Hour is my own R&B instrumental project created using TunePad and Python. I used the inspiration as a starting point while experimenting with musical layers, rhythms, chords and different sounds.
+
+My goal was to create music that expresses the calm feeling between daylight and night.
 
 ## How I Used Python
 
